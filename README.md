@@ -28,3 +28,14 @@ _**Programming**_ is a process that can be used to create a specific set of inst
 - Alerting suspicious activity
 
 <b></b>
+
+🎉 Completed the first course in the Google Cybersecurity Professional Certificate Program! One down, seven more to go. Excited to keep learning and growing in this field! 💻🔐 hashtag#Cybersecurity hashtag#ContinuousLearning hashtag#GoogleCertifications
+
+![image](https://github.com/user-attachments/assets/7f09176e-89c6-4ecc-a116-0049dbd0a1e0)
+
+Another milestone achieved on my journey to earning the Google Cybersecurity Professional Certificate! 🎉 🙏 
+I've just completed the second course – one step closer, six more to go! Excited to keep learning and growing in this dynamic field. 💻🔒
+
+![image](https://github.com/user-attachments/assets/35a78c76-5e9b-43c7-a455-94300f0063d9)
+
+
