@@ -38,4 +38,10 @@ I've just completed the second course – one step closer, six more to go! Excit
 
 ![image](https://github.com/user-attachments/assets/35a78c76-5e9b-43c7-a455-94300f0063d9)
 
+🎉 Another Milestone Achieved! 🎉
+I’ve just completed Course 3 of 8 in the Google Cybersecurity Certificate: Connect and Protect: Networks and Network Security! That’s 3 courses down, 5 more to go – each one bringing me closer to a career shift in cybersecurity! 🚀💼
+
+![image](https://github.com/user-attachments/assets/49bebb39-22f5-4306-a0f4-6b2c815ca795)
+
+
 
