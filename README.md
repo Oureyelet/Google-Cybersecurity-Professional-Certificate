@@ -43,5 +43,11 @@ I’ve just completed Course 3 of 8 in the Google Cybersecurity Certificate: Con
 
 ![image](https://github.com/user-attachments/assets/49bebb39-22f5-4306-a0f4-6b2c815ca795)
 
+Grateful for the Journey So Far! 🙌 ! 🎉
+I’ve just completed Course 4 of 8 in the Google Cybersecurity Certificate: Tools of the Trade: Linux and SQL! That’s 4 courses down, 4 more to go – each one bringing me closer to a career shift in cybersecurity! 🚀💼
+
+![image](https://github.com/user-attachments/assets/3dc38297-2118-46c1-8d7f-f6cd10a57e04)
+
+
 
 
