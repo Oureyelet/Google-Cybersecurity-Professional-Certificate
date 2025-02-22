@@ -48,6 +48,12 @@ I’ve just completed Course 4 of 8 in the Google Cybersecurity Certificate: Too
 
 ![image](https://github.com/user-attachments/assets/3dc38297-2118-46c1-8d7f-f6cd10a57e04)
 
+I’m thrilled to share a big achievement—I've just completed Course 5 of the Google Cybersecurity Certificate: Assets, Threats, and Vulnerabilities! 🎉
+
+In this module, I explored how to identify and protect assets, developed an attacker mindset, and learned about security controls that mitigate vulnerabilities and defend against threats. This journey has been incredibly rewarding, and I’m grateful for every lesson along the way.
+
+![image](https://github.com/user-attachments/assets/9d946c3c-af1f-4b03-be77-3e7ebd152985)
+
 
 
 
