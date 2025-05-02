@@ -54,6 +54,16 @@ In this module, I explored how to identify and protect assets, developed an atta
 
 ![image](https://github.com/user-attachments/assets/9d946c3c-af1f-4b03-be77-3e7ebd152985)
 
+n this course, I knowledge of incident response, network security, and SIEM tools, while sharpening my skills in packet analysis and Intrusion Detection Systems (IDS/NIDS). 
+
+🧠 Key Skills Gained:
+Incident Containment, Eradication, and Recovery
+Packet Analysis for Network Traffic
+Working with IDS/NIDS Signatures and Logs
+Querying Events in SIEM Tools
+
+![image](https://github.com/user-attachments/assets/59e469d0-2b47-4030-a2cd-e38aeb9c4f3a)
+
 
 
 
