@@ -64,6 +64,13 @@ Querying Events in SIEM Tools
 
 ![image](https://github.com/user-attachments/assets/59e469d0-2b47-4030-a2cd-e38aeb9c4f3a)
 
+Automating tasks in Python (Programming Language)
+
+![image](https://github.com/user-attachments/assets/ab82d9a3-0b23-451e-9386-518a5db3bb03)
+
+
+
+
 
 
 
