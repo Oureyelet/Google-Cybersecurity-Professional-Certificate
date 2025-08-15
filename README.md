@@ -27,6 +27,8 @@ _**Programming**_ is a process that can be used to create a specific set of inst
 
 - Alerting suspicious activity
 
+<img width="1129" height="873" alt="image" src="https://github.com/user-attachments/assets/3ae6e750-50e2-4dc2-9b71-f3304511061b" />
+
 <b></b>
 
 🎉 Completed the first course in the Google Cybersecurity Professional Certificate Program! One down, seven more to go. Excited to keep learning and growing in this field! 💻🔐 hashtag#Cybersecurity hashtag#ContinuousLearning hashtag#GoogleCertifications
@@ -67,6 +69,8 @@ Querying Events in SIEM Tools
 Automating tasks in Python (Programming Language)
 
 ![image](https://github.com/user-attachments/assets/ab82d9a3-0b23-451e-9386-518a5db3bb03)
+
+
 
 
 
